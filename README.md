@@ -1,5 +1,3 @@
-# assignment2
-
 # DATA0006: Data Analytics with Python Assignment 2
 
 
